@@ -1,4 +1,4 @@
-![logo](https://github.com/ShivamBorban/ShivamBorban/blob/main/1716487488716.jpg)
+![logo](https://github.com/ShivamBorban/ShivamBorban/blob/main/GitHub-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shivam Borban</h1>
 
 
