@@ -9,7 +9,6 @@
 Hello! I'm Shivam Borban, a passionate DevOps Engineer with a strong foundation in cloud computing and automation. I hold a degree in Computer Science and have hands-on experience with a variety of DevOps tools and practices, including AWS, Docker, Kubernetes, and Jenkins.
 
 - 📫 How to reach me **shivamborban14321@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kIzY_uVr9_0sGbYZwGzJGh53Bd1N4Lxr/view?usp=drive_link](https://drive.google.com/file/d/1kIzY_uVr9_0sGbYZwGzJGh53Bd1N4Lxr/view?usp=drive_link)
 
 
@@ -42,7 +41,7 @@ Hello! I'm Shivam Borban, a passionate DevOps Engineer with a strong foundation 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam borban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam borban" height="30" width="40" /></a> &nbsp; <a href="shivamborban14321@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="shivam borban" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shivamborban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp; <a href="mailto:shivamborban14321@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="EMail" height="40" width="40" /></a> &nbsp; <a href="tel:+919111715710" target="blank"><img align="center" src="https://github.com/ShivamBorban/ShivamBorban/assets/114582670/5f8ac4df-70f1-4394-9026-32f0b63b8eb1" alt="Phone" height="40" width="40" /></a>
 </p> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamborban&label=Profile%20views&color=0e75b6&style=flat" alt="shivamborban" /> </p>
