@@ -28,11 +28,18 @@ Hello! I'm Shivam Borban, a passionate DevOps Engineer with a strong foundation 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2aa1_PJXZW3Xs4-ikSetJn97kpftdMMkOHA&s" alt="Ansible" width="40" height="40"/> </a></p>
 <br>
 
-## Links to Projects
+## Certificates:
+- [Cloud and DevOps](https://lms.intellipaat.com/certificate-link/?Yz03MjY5ODUmdT0yMjI2NjMmZXh0PTE=)
+- [AWS Course](https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyOTExJnU9MjIyNjYzJmV4dD0x)
+- [DevOps Course](https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyNDEyJnU9MjIyNjYzJmV4dD0x)
+- [Linux Training](https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyNzQ3JnU9MjIyNjYzJmV4dD0x)
+
+## Links to Projects:
 - [Capstone Project 1 - AWS](https://github.com/ShivamBorban/Capstone-Project-1-AWS-.git)
 - [Capstone Project 2 - AWS](https://github.com/ShivamBorban/Capstone-Project-2-AWS-.git)
 - [Capstone Project 1 - DevOps](https://github.com/ShivamBorban/Capstone-Project-1-Devops-.git)
 - [Capstone Project 2 - DevOps](https://github.com/ShivamBorban/Capstone-Project-2-Devops-.git)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
