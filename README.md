@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Borban</h1>
 
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+<img align="right" alt="coding" width="400" src="https://github.com/ShivamBorban/ShivamBorban/blob/main/GitHub-Gif.gif">
 
 <h3 align="left">About Me:</h3>
 
