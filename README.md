@@ -38,8 +38,9 @@ Hello! I'm Shivam Borban, a passionate DevOps Engineer with a strong foundation 
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-borban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp; 
-  <a href="mailto:shivamborban14321@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="EMail" height="40" width="40" /></a> &nbsp; 
+<a href="https://www.linkedin.com/in/shivam-borban/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/15c83215-6df9-43c7-84e9-db1163976f71" alt="LinkedIn" height="45" width="49" /></a> &nbsp;
+  <a href="https://x.com/ShivamBorban" target="blank"><img align="center" src="https://github.com/user-attachments/assets/41451908-3b27-4207-8373-088ac6b113eb" alt="X" height="35" width="40" /></a> &nbsp;
+  <a href="mailto:shivamborban14321@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="EMail" height="46" width="41" /></a> &nbsp; 
   <a href="https://wa.me/+919111715710?text=Hi%20there!" target="blank"><img align="center" src="https://github.com/ShivamBorban/ShivamBorban/assets/114582670/77e0ce6b-ea83-4af9-9de4-e078e798bd93" alt="Phone" height="35" width="40" /></a>
 </p> <br>
 
