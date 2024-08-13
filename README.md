@@ -31,10 +31,11 @@ Hello! I'm Shivam Borban, a passionate DevOps Engineer with a strong foundation 
 
 <br>
 
-## Links to Projects:
+## Projects:
 🌟 [Capstone Project 1 - AWS](https://github.com/ShivamBorban/Capstone-Project-1-AWS-.git)  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;🌟 [Capstone Project 2 - AWS](https://github.com/ShivamBorban/Capstone-Project-2-AWS-.git) <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="40" height="40"/> 
 
 🌟 [Capstone Project 1 - DevOps](https://github.com/ShivamBorban/Capstone-Project-1-Devops-.git) <img src="https://github.com/ShivamBorban/ShivamBorban/assets/114582670/40572106-3568-4069-8db5-22e1a2cf3f3d" alt="DevOps" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 🌟 [Capstone Project 2 - DevOps](https://github.com/ShivamBorban/Capstone-Project-2-Devops-.git) <img src="https://github.com/ShivamBorban/ShivamBorban/assets/114582670/40572106-3568-4069-8db5-22e1a2cf3f3d" alt="DevOps" width="40" height="40"/>
+<br>
 
 ## Connect with me:
 <p align="left">
